@@ -26,10 +26,9 @@ Navigation Nation is a mobile-first navigation menu solution that aims to improv
 ## Installation
 
 To use the Navigation Nation menu on your website, follow these steps:
+Clone this GitHub repository to your local machine using the following command:
 
-1. Clone this GitHub repository to your local machine using the following command:
-git clone https://github.com/your-username/navigation-nation.git
-
+1. git clone https://github.com/your-username/navigation-nation.git
 2. Navigate to the project directory: cd navigation-nation <br>
 3. Open the index.html file in your preferred web browser. <br>
 
