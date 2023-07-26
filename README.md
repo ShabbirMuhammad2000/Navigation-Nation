@@ -30,11 +30,11 @@ To use the Navigation Nation menu on your website, follow these steps:
 1. Clone this GitHub repository to your local machine using the following command:
 git clone https://github.com/your-username/navigation-nation.git
 
-2. Navigate to the project directory: <br>
-cd navigation-nation
+2. Navigate to the project directory: cd navigation-nation <br>
+3. Open the index.html file in your preferred web browser. <br>
 
-Customize the menu items and styles to match your website's design. <br>
-That's it! Now the Navigation Nation menu is integrated into your website.<br>
+That's it! Now you should see the Navigation Nation menu running on your website.<br>
+Customize the menu items and styles to match your website's design! <br>
 
 ## Usage
 On mobile or smaller screens, the navigation menu is hidden by default. <br>
